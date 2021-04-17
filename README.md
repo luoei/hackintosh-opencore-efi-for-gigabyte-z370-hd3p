@@ -29,14 +29,15 @@ https://github.com/acidanthera/CPUFriend/blob/master/Instructions.md
 - AOC 27寸4k显示器
 
 ## BIOS Settings:	
-BIOS 功能 – 快速启动 – 关闭
-BIOS 功能 – CSM 支持 – 关闭
-集成外设 – 预设启动的显示设备 – PCEe 插槽 1
-集成外设 – 4G 以上解码 – 启动
-集成外设 – Inter Platform Trust Technology(PTT) – 关闭
-集成外设 – USB 程序 – XHCI Hand-off – 开启
-芯片组 - VT-d – 关闭
-芯片组 – 内建显示核心 – 启动
-芯片组 – DVMT 预载 Pre-Allocated – 128M
-芯片组 – DVMT Total GFx Mem – 256M
-电源管理 – RC6(Render Standby) – 启动
+
+- BIOS 功能 – 快速启动 – 关闭
+- BIOS 功能 – CSM 支持 – 关闭
+- 集成外设 – 预设启动的显示设备 – PCEe 插槽 1
+- 集成外设 – 4G 以上解码 – 启动
+- 集成外设 – Inter Platform Trust Technology(PTT) – 关闭
+- 集成外设 – USB 程序 – XHCI Hand-off – 开启
+- 芯片组 - VT-d – 关闭
+- 芯片组 – 内建显示核心 – 启动
+- 芯片组 – DVMT 预载 Pre-Allocated – 128M
+- 芯片组 – DVMT Total GFx Mem – 256M
+- 电源管理 – RC6(Render Standby) – 启动
