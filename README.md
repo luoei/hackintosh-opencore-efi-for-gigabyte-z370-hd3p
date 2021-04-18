@@ -14,11 +14,7 @@ BIOS Version: F14b
 Please use **OpenCore Configurator** to generate new SN.
 
 ## 已测试项目 Tested feature
-- [x] USB已定制
-
-*1: 建议使用CPUFriend中的Tools重新生成一份属于自己的配置文件。     
-*1: Use CPUFriend tools to generate a your profile is recommend!     
-https://github.com/acidanthera/CPUFriend/blob/master/Instructions.md     
+- [x] USB已定制  
 
 ## 我的配置 My hardware infomation 
 - Intel Core i7 8700k
